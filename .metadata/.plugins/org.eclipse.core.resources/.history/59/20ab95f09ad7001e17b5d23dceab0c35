@@ -1,0 +1,46 @@
+//Implemet the following scenario using Collection
+//Students of section 8cse1 are assigned with 5 subjects
+//Each  subject is alloted to more than one faculty
+//Each faculty ia also assigned to other courses
+//for other sections.
+//Each subject have 3 different assessement for evaluation
+//Find each student total marks in every subject
+//Find assigned faculty for every student
+//find the details of faulty and their course.
+package none;
+import java.util.*;
+class Student{
+	private int id;
+	private String name;
+	private String address;
+}
+class crse{
+	private String cid;
+	private String cname;
+	private String ctype;
+	private String domain;
+}
+class Facualty{
+	private int empid;
+	private String nfame;
+	private String qualification;
+	private String designation;
+	private List<crse> courses;
+}
+class Subject{
+	private String SubCode;
+	private String SubName;
+	private int credit;
+	private int marks[];
+	private List<Facualty> faculties;
+}
+public class Test11 {
+
+	public static void main(String[] args) {
+		Map<Student,List<Subject>> table= new HashMap<Student,List<Subject>>();
+		
+
+	}
+
+}
+

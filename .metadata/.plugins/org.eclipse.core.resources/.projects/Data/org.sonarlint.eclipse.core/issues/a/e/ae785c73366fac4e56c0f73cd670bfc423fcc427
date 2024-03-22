@@ -1,0 +1,75 @@
+
+z	java:S112Ü"FDefine and throw a dedicated exception instead of using a generic one.b b0d4998a26f5b5742ad38c4af8817e32h
+z	java:S112é"FDefine and throw a dedicated exception instead of using a generic one.b b0d4998a26f5b5742ad38c4af8817e32h
+é
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").b 3497eb32dbd62f280fb873519e244b36h
+é
+java:S2293∞"YReplace the type specification in this constructor call with the diamond operator ("<>").b 8b0a6ac050d4885a841a9d76cd0bf23fh
+é
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").b 3497eb32dbd62f280fb873519e244b36h
+ç	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.b 82269b9b71ab4a7732f6958610214c43h
+|
+java:S3973è"GUse indentation to denote the code conditionally executed by this "if".b 0854c77799d5adca30717d12e0cda245h
+Ñ
+java:S2095˝"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b 63f3c7f9caf18bcc62b97bd34836e8b0h
+Ñ
+java:S2095ñ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b cd80a6146405803f001dd3ce59c12e64h
+Ñ
+java:S2095‹"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b 44884eee599f9ce249a5fc671ea49fbbh
+Ñ
+java:S2095¢"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b 3b30fcba3b41355bce8a6c76805aa30fh
+Ñ
+java:S2095¬"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b 57937e2fddc081e4413e000c34f188f3h
+Ñ
+java:S2095≤"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b 2d3e1693631b6108d638e7181931f207h
+Ñ
+java:S2095Ä"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b 8a55ca7bf11da8a7d23b7ae8c3dd36b3h
+Ñ
+java:S2095™"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b 5b8b7a5c850bd09ff314ba4a67760c99h
+Ñ
+java:S2095Ã"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b 88cfb8b8c4ec75a84afa49b26199bb6ah
+Ñ
+java:S2095¬"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b cbc49e106f2b8b293b64198f24932ca5h
+Ñ
+java:S2095§"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b dae8cc987f902693d12cb15c420b59d6h
+Ñ
+java:S2095∂"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.b a8ab78607a741b07d81faa76b17ff32eh
+x
+java:S2583ı"CChange this condition so that it does not always evaluate to "true"b 2751a33d1ec4801b962eddf647190731h
+x
+java:S2583¢"CChange this condition so that it does not always evaluate to "true"b 2751a33d1ec4801b962eddf647190731h
+k
+java:S6437†"6Revoke and change this password, as it is compromised.b 025e4042d2ea1f0bc7da79d4223707f8h
+v
+java:S1126¢"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h
+]	java:S108∞")Either remove or fill this block of code.b f95b70fdc3088560732a5ac135644506h
+]	java:S108º")Either remove or fill this block of code.b f95b70fdc3088560732a5ac135644506h
+]	java:S108∆")Either remove or fill this block of code.b f95b70fdc3088560732a5ac135644506h
+]	java:S108÷")Either remove or fill this block of code.b f95b70fdc3088560732a5ac135644506h
+]	java:S108Â")Either remove or fill this block of code.b f95b70fdc3088560732a5ac135644506h
+k
+java:S6437Û"6Revoke and change this password, as it is compromised.b 025e4042d2ea1f0bc7da79d4223707f8h
+v
+java:S1126ı"AReplace this if-then-else statement by a single return statement.b 39c8942e1038872a822c0dc75eedbde3h
+\
+java:S1659˚"'Declare "response2" on a separate line.b 6d8aa682668fbd4a324aa5299495cc69h
+p	java:S125à"<This block of commented-out lines of code should be removed.b eacc2ba70ecff0588fed49fa673217a9h
+]	java:S108é")Either remove or fill this block of code.b f95b70fdc3088560732a5ac135644506h
+]	java:S108ú")Either remove or fill this block of code.b f95b70fdc3088560732a5ac135644506h
+\
+java:S1659†"'Declare "response2" on a separate line.b 6d8aa682668fbd4a324aa5299495cc69h
+]	java:S108™")Either remove or fill this block of code.b f95b70fdc3088560732a5ac135644506h
+]	java:S108º")Either remove or fill this block of code.b f95b70fdc3088560732a5ac135644506h
+]	java:S108À")Either remove or fill this block of code.b f95b70fdc3088560732a5ac135644506h
+\
+java:S1125÷"'Remove the unnecessary boolean literal.b b326b5062b2f0e69046810717534cb09h
+\
+java:S1125÷"'Remove the unnecessary boolean literal.b b326b5062b2f0e69046810717534cb09h
+_	java:S106˙"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106¸"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Ä"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+_	java:S106Å"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+a
+java:S1128"-Remove this unused import 'java.util.Arrays'.b 54e9e610d6bdce198c93f75733e99130h
+h
+java:S1128"4Remove this unused import 'java.util.LinkedHashSet'.b e8643e7003bfafa4ecf97698219796a1h
