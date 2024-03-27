@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="Subject"/>
+		<item key="selection" value="javax"/>
 		<list key="findhistory">
+			<item value="jakarta"/>
 			<item value="Student"/>
 			<item value="Subject1"/>
 			<item value="Faculty"/>
@@ -20,6 +21,7 @@
 			<item value="Employee2"/>
 		</list>
 		<list key="replacehistory">
+			<item value="javax"/>
 			<item value="Subject"/>
 			<item value="Facualty"/>
 			<item value="crse"/>

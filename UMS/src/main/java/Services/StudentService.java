@@ -4,7 +4,7 @@ import java.util.*;
 
 import Entities.Student;
 public class StudentService {
-	private StudentDAO=new StudentDAOImpl();
+	//private StudentDAO=new StudentDAOImpl();
 	public int insertStudent(Student s){
 		return 1;
 	}
@@ -17,7 +17,7 @@ public class StudentService {
 	public List<Student> fetchAllStudent(){
 		return null;
 	}
-	public Student fetchAnyStudent(int id) {
+	public Student fetchAnyStudent(int id ) {
 		return null;
 	}
 }
